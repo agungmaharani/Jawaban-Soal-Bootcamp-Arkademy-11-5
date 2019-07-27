@@ -1,0 +1,32 @@
+{
+    "Name"  : "A A Istri Maharani Listya Dewi",
+    "Age"    : 23,
+    "Adress" : "Jl. Kuricang XII Blok VC, Pondok Ranji, Ciputat Timur atau Puri Satria Kanginan, Klungkung, Bali",
+    "Hobbies": ["Bridge", "Eat", "Traditional Dance"],
+    "is_married": false,
+    "List_School": [
+      {
+        "Name"    : "Universitas Gadjah Mada",
+        "Year_in" : 2014,
+        "Year_out": 2019,
+        "Major"   : "Mathematics"
+    },
+    {
+        "Name"    : "SMA N 1 Semarapura",
+        "Year_in" : 2011,
+        "Year_out": 2014,
+        "Major"   : null
+    }
+    ],
+    "Skills" : [ 
+      {
+        "Skill_name" : "Python",
+        "Level"      : "Beginner"
+    },
+    {
+        "Skill_name" : "SQL",
+        "Level"      : "Beginner"
+    }
+    ],
+    "Interest_in_coding" : true
+}
